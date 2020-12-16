@@ -1,4 +1,7 @@
-### Hi there, I'm Jeyhunzade Jeyhun - aka [MrJeyhun] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<p align=center>
+  <h1>Hi there, I'm Jeyhunzade Jeyhun - aka [MrJeyhun] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
+</p>
+
 <p align=center>
 <em>22 years old Front End Developer with huge knowledge and proficiency in web and web application development, as well as strong skills and ability in writing clean and efficient code</em>
 </p>
