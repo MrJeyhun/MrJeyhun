@@ -6,7 +6,9 @@
 <em>22 years old Front End Developer with huge knowledge and proficiency in web and web application development, as well as strong skills and ability in writing clean and efficient code</em>
 </p>
 
-##### <a href='https://mrjeyhun.github.io/MrJeyhunPortfolio/'><img src="https://media.giphy.com/media/l1Oe5bzMJi5LVcbP0u/source.gif" height="64"></a>
+<p align=center>
+<a href='https://mrjeyhun.github.io/MrJeyhunPortfolio/'><img src="https://media.giphy.com/media/l1Oe5bzMJi5LVcbP0u/source.gif" height="64"></a>
+</p>
 
 ### Languages and Tools:
 [<code>
