@@ -2,7 +2,7 @@
 
 #### 22 years old Front End Developer with huge knowledge and proficiency in web and web application development, as well as strong skills and ability in writing clean and efficient code. 
 
-##### <a href='https://mrjeyhun.github.io/MrJeyhunPortfolio/'>My portfolio</a>
+##### <img src="https://media.giphy.com/media/l1Oe5bzMJi5LVcbP0u/source.gif" height="64"><a href='https://mrjeyhun.github.io/MrJeyhunPortfolio/'></a></img>
 
 ### Languages and Tools:
 [<code>
@@ -30,8 +30,8 @@
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
+<img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
+</code>](https://vuejs.org/)
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
