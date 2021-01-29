@@ -21,8 +21,8 @@
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/ruby-programming-language.png">
-</code>](https://www.ruby-lang.org/en/)
+<img alt="cpp" width="26px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png">
+</code>](https://isocpp.org/)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
