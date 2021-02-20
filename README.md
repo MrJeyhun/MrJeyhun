@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-<em>22 years old Front End Developer with huge knowledge and proficiency in web and web application development, as well as strong skills and ability in writing clean and efficient code</em>
+<em>23 years old Front End Developer with huge knowledge and proficiency in web and web application development, as well as strong skills and ability in writing clean and efficient code</em>
 </p>
 
 <p align=center>
